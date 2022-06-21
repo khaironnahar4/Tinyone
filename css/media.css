@@ -1,0 +1,212 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    body {
+        margin-top: 73px;
+    }
+    .my_nav {
+        padding: 5px 0;
+    }
+    .my_nav {
+        padding: 5px 0;
+    }
+    .my-nav ul li {
+        padding: 0;
+        text-align: end;
+    }
+    .logo img{
+        width: 130px;
+    }
+    .banner-text {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .banner {
+        padding-bottom: 40px;
+    }
+    .hd_t {
+        font-size: 24px;
+    }
+    .banner-text h2 {
+        padding: 5px 0;
+    }
+    /* banner icon */
+    .banner-icon ul li i {
+        font-size: 35px;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+    .carousel-indicators {
+        bottom: -12%;
+    }
+    .subhd_t {
+        font-size: 18px;
+    }
+    .sec_p {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+     /* services */
+    .ins_p {
+        padding-top: 20px;
+    }
+    .icon i {
+        font-size: 40px;
+    }
+    .colum-text{
+        text-align: center;
+    }
+    .ser-h-size {
+        font-size: 20px;
+        padding-top: 10px;    
+    }
+    p {
+        padding: 0 10%;
+    }
+    /* contact */
+    .form-control {
+        text-align: center;
+    }
+    .my-button {
+        width: 100%;
+        padding: 7px 15px;
+    }
+    .contact-icon ul li a i {
+        margin: 0 10px;
+        font-size: 35px;
+    }
+     /* footer */
+     .footer-text p{
+        text-align: center;
+        font-size: 14px;
+    }
+    .footer-para{
+        text-align: center;
+    }
+    .footer-text{
+        margin-top: 20px;
+    }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+        margin-top: 79px;
+    }
+    .my_nav {
+        padding: 5px 0;
+    }
+    .my-nav ul li {
+        padding: 0;
+        text-align: end;
+    }
+    .banner-icon ul li i {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    .carousel-indicators {
+        bottom: -13%;
+    }
+    .banner-text {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .banner {
+        padding-bottom: 40px;
+    }
+    .sec_p {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+        /* services */
+    .ins_p {
+        padding-top: 30px;
+    }
+    .icon i {
+        font-size: 40px;
+    }
+    .colum-text{
+        text-align: center;
+    }
+    .ser-h-size {
+        padding-top: 10px;
+    }
+    p {
+        padding: 0 10%;
+    }
+    /* contact */
+    .form-control {
+        text-align: center;
+    }
+    .my-button {
+        width: 100%;
+        padding: 7px 15px;
+    }
+    .contact-icon ul li a i {
+        margin: 10px;
+        font-size: 35px;
+    }
+    /* footer */
+    .footer-text p{
+        text-align: center;
+    }
+    .footer-para{
+        text-align: center;
+    }
+    .footer-text{
+        margin-top: 30px;
+    }
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    body {
+        margin-top: 89px;
+    }
+    .my_nav {
+        padding: 10px 0;
+    }
+    .my-nav ul li {
+        padding: 0;
+        text-align: end;
+    }
+    .banner-icon ul li i {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    .carousel-indicators {
+        bottom: -15%;
+    }
+    .banner-img {
+        width: 250px;
+    }
+    .banner-text {
+        padding: 20% 0;
+    }
+    .sec_p {
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .ser-h-size {
+        font-size: 20px;
+    }
+    .icon i {
+        font-size: 45px;;
+    }
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+}
+
+/* // Extra Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
